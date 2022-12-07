@@ -34,7 +34,7 @@
     "bunyan-node-logger": "^1.0.2",
     "cookie-parser": "^1.4.3",
     "dotenv": "^2.0.0",
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "rx": "^4.1.0",
     "rx-http-request": "^1.2.0",
     "watson-developer-cloud": "^2.15.2"
